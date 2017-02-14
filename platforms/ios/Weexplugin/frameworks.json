@@ -1,0 +1,6 @@
+{
+    "ImageIO.framework": 1,
+    "CFNetwork.framework": 1,
+    "Foundation.framework": 1,
+    "Security.framework": 1
+}

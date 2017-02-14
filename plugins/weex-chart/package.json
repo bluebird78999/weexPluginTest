@@ -1,0 +1,14 @@
+{
+    "version": "0.1.9",
+    "platform": [
+        "ios",
+        "android"
+    ],
+    "description": "weex chart plugin",
+    "keywords": [
+        "weex",
+        "plugin"
+    ],
+    "license": "Apache 2.0",
+    "name": "weex-plugin--weex-chart"
+}
