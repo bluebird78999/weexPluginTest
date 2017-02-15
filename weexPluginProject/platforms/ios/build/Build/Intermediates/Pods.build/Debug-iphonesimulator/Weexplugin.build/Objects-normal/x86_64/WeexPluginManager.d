@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Weexplugin/Weexplugin/Source/WeexPlugin/WeexPluginManager.m \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Target\ Support\ Files/Weexplugin/Weexplugin-prefix.pch \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Weexplugin/Weexplugin/Source/WeexPlugin/WeexPluginManager.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Weexplugin/Weexplugin/Source/WeexPlugin/WeexPluginLoader.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WeexSDK.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXUtility.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXDefine.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXType.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXLog.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXURLRewriteProtocol.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXResourceRequest.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXScrollerProtocol.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXScrollerComponent.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXComponent.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXLayoutDefine.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/Layout.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKManager.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKInstance.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXBridgeManager.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKError.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKEngine.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXRootViewController.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXNetworkProtocol.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXModuleProtocol.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXNavigationProtocol.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXMonitor.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXListComponent.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXImgLoaderProtocol.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXEventModuleProtocol.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXDebugTool.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXConvert.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXComponentManager.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXBridgeProtocol.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXBaseViewController.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXAppMonitorProtocol.h \
+  /Users/liuhongfeng/Desktop/personal/gitHub/weexPluginTest/weexPluginProject/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXAppConfiguration.h

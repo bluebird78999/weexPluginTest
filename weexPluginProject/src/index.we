@@ -1,0 +1,53 @@
+<template>
+  <div id="test">
+    <chart id="c1"></chart>
+  </div>
+</template>
+<script>
+var GM=require('weex-chart')('g2');//使用g2这个chart 目前只支持g2
+ var Util = GM.Util;
+      // 双精度
+      GM.Global.pixelRatio = 1;   
+     var data = [
+        {"month":'周一',"tem":[0, 7]},
+        {"month":'周二',"tem":[7, 5]},
+        {"month":'周三',"tem":[5, 9.5]},
+        {"month":'周四',"tem":[9.5, 14.5]},
+        {"month":'周五',"tem":[14.5, 10.2]},
+        {"month":'周六',"tem":[10.2, 21.5]},
+        {"month":'周日',"tem":[21.5, 25.2]}
+      ];
+module.exports={
+   ready:function(){
+      
+      var chart = new GM.Chart({
+        id: 'c1'
+      });
+      chart.source(data, {
+        tem: {
+          tickCount: 5
+        }
+      });
+      //配置刻度文字大小，供PC端显示用(移动端可以使用默认值20px)
+      chart.axis('month', {
+        label: {
+            font:'14px'
+        },
+        grid: null
+      });
+      chart.axis('tem', {
+        label: {
+            font:'14px'
+        }
+      });
+      chart.interval().position('month*tem').color('tem', function(tem) {
+        if (tem[1] >= tem[0]) {
+          return 'red'
+        } else {
+          return 'green';
+        }
+      });
+      chart.render();
+  }
+}
+</script>
